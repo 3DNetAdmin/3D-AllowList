@@ -41,6 +41,11 @@ logging.api.intuit.com
 healthfusion.com
 reports.healthfusionclaims.com
 lptag.liveperson.net
+ckdehr.davitaphysiciansolutions.com
+ehr2.charmtracker.com/
+txn2.healthfusionclaims.com/electronic/pm
+www.eclinicalworks.com/
+accounts.optimispt.com
 www.ringcentral.com
 status.ringcentral.com
 support.ringcentral.com	
