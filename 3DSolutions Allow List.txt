@@ -1,3 +1,17 @@
+withyoutube.com^
+youtube-nocookie.com^
+youtube.be^
+youtube.co.uk^
+youtube.com^
+youtube.de^
+youtube.es^
+youtube.fr^
+youtube.nl^
+youtube.pl^
+youtubeeducation.com^
+youtubegaming.com^
+ytimg.com^
+youtube-3rd-party.com
 www.youtube.com
 iptag.liveperson.net
 www.coursera.org
