@@ -1,3 +1,6 @@
+www.google.com 
+www.google.in
+www.google.co.in/
 people.zoho.in
 www.icd10data.com
 static.practicefusion.com/apps/ehr/index.html#/lock 
