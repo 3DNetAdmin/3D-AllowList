@@ -1,3 +1,5 @@
+va.idp.liveperson.net
+server.iad.liveperson.net
 withyoutube.com^
 youtube-nocookie.com^
 youtube.be^
