@@ -1,3 +1,5 @@
+browser.events.data.microsoft.com
+self.events.data.microsoft.com
 noam.presence.teams.microsoft.com
 us-prod.asyncgw.teams.microsoft.com
 teams.cloud.microsoft
