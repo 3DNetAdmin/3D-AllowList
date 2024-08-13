@@ -1,11 +1,8 @@
-browser.events.data.microsoft.com
 self.events.data.microsoft.com
 noam.presence.teams.microsoft.com
 us-prod.asyncgw.teams.microsoft.com
 teams.cloud.microsoft
-teams.nel.measure.office.net
 config.teams.microsoft.com
-teams.events.data.microsoft.com
 10025924.vehr.veradigmcloud.com
 va.idp.liveperson.net
 server.iad.liveperson.net
