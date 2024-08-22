@@ -135,3 +135,17 @@ vimeo.com^$important
 player.vimeo.com^$important
 employer.ambitionbox.com^$important
 logs.ambitionbox.com^$important
+t.indeed.com
+challenges.cloudflare.com
+gnar.grammarly.com
+treatment.grammarly.com
+extension.femetrics.grammarly.io
+delivery-us.tlsext.com
+tennis-us.tlsext.com
+ungual-us.tlsext.com
+diplocephalus-us.tlsext.com
+midnight-us.tlsext.com
+dalafant-us.tlsext.com
+king-us.tlsext.com
+dinner-us.tlsext.com
+antpeak.com
