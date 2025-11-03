@@ -59,7 +59,6 @@ davitaphysiciansolutions.com
 miro.com/login
 ckdehr.davitaphysiciansolutions.com/Citrix/EpicWeb/
 www.youtube.com
-iptag..net
 www.coursera.org
 amazonaws.com
 coursera_assets.s3.amazonaws.com
@@ -174,3 +173,4 @@ www.tmhp.com
 www.dhcs.ca.gov
 www.mmis.georgia.gov
 impact.illinois.gov
+
