@@ -109,9 +109,6 @@ employer.ambitionbox.com^$important
 logs.ambitionbox.com^$important
 t.indeed.com
 challenges.cloudflare.com
-gnar.grammarly.com
-treatment.grammarly.com
-extension.femetrics.grammarly.io
 *.tlsext.com
 dl.google.com
 updates.nest.com
@@ -173,4 +170,5 @@ www.tmhp.com
 www.dhcs.ca.gov
 www.mmis.georgia.gov
 impact.illinois.gov
+
 
