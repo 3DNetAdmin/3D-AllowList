@@ -44,7 +44,6 @@ app.kareo.com
 npiregistry.cms.hhs.gov/search
 www.eclinicalworks.com
 secure.simplepractice.com/users/sign_in
-www.ilovepdf.com
 qpp.cms.gov/resources/resource-library
 opennpi.com/provider
 www.palmettogba.com/palmetto/fees_front.nsf
@@ -170,5 +169,6 @@ www.tmhp.com
 www.dhcs.ca.gov
 www.mmis.georgia.gov
 impact.illinois.gov
+
 
 
